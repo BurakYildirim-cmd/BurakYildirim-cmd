@@ -26,9 +26,3 @@ Currently learning and improving my skills through hands-on projects.
 <p align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurakYildirim-cmd&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BurakYildirim-cmd&theme=tokyo-night&hide_border=true"/>
-</p>
