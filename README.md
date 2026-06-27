@@ -15,14 +15,20 @@ Currently learning and improving my skills through hands-on projects.
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,git,github,arduino,raspberrypi,html,css,js,bash&perline=9" />
 </p>
 
-## Stats
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&theme=tokyonight&show_icons=true&hide_border=true">
+</td>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BurakYildirim-cmd&show_icons=true&theme=tokyonight&hide_border=true"/>
+<td>
+<img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true">
+</td>
+</tr>
 
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=BurakYildirim-cmd&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurakYildirim-cmd&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<tr>
+<td colspan="2">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true">
+</td>
+</tr>
+</table>
