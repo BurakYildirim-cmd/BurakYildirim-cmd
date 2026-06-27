@@ -1,9 +1,21 @@
-## 👨‍💻 Burak Yıldırım
+# 👋 Hi, I'm Burak Yıldırım
+
+Machine Learning • Computer Vision • Embedded Systems • Software Development
+
+## About Me
 Mechatronics Engineering student building software and AI-based projects.
 
 I love turning ideas into real applications using Python, Machine Learning, and Computer Vision.
 
 Currently learning and improving my skills through hands-on projects.
+
+## 🛠️ Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,linux,docker,git,github,arduino,raspberrypi,html,css,js,ts,react,flutter,bash&perline=9" />
+</p>
+
+
 
 ## Skills
 
