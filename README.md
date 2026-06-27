@@ -9,7 +9,7 @@ I love turning ideas into real applications using Python, Machine Learning, and 
 
 Currently learning and improving my skills through hands-on projects.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,git,github,arduino,raspberrypi,html,css,js,ts,bash&perline=9" />
