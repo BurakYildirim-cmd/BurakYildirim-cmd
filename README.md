@@ -1,11 +1,16 @@
-## Hi there 👋
+## 👨‍💻 Burak Yıldırım
+Mechatronics Engineering student building software and AI-based projects.
+
+I love turning ideas into real applications using Python, Machine Learning, and Computer Vision.
+
+Currently learning and improving my skills through hands-on projects.
 
 ## Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-orange?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
+## Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BurakYildirim-cmd&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurakYildirim-cmd&layout=compact&theme=tokyonight" height="180"/>
