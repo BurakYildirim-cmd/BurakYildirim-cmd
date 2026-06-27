@@ -27,7 +27,7 @@ Currently learning and improving my skills through hands-on projects.
 </tr>
 
 <tr>
-<td colspan="2">
+<td colspan="2" align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurakYildirim-cmd&layout=compact&theme=tokyonight&hide_border=true">
 </td>
 </tr>
