@@ -18,17 +18,17 @@ Currently learning and improving my skills through hands-on projects.
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&theme=tokyonight&show_icons=true&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api?username=BurakYildirim-cmd&theme=tokyonight&show_icons=true&hide_border=true">
 </td>
 
 <td>
-<img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true">
+<img src="https://streak-stats.demolab.com?user=BurakYildirim-cmd&theme=tokyonight&hide_border=true">
 </td>
 </tr>
 
 <tr>
 <td colspan="2">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurakYildirim-cmd&layout=compact&theme=tokyonight&hide_border=true">
 </td>
 </tr>
 </table>
