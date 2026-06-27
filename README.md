@@ -13,6 +13,7 @@ Currently learning and improving my skills through hands-on projects.
 
 [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,linux,docker,git,github,arduino,raspberrypi,react,ts,js,html,css,tailwind,flutter,bash)](https://skillicons.dev)
 
+## Stats
 <table>
 <tr>
 <td>
