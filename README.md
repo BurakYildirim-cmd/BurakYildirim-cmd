@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Burak Yıldırım
+# Hi, I'm Burak Yıldırım
 
 Machine Learning • Computer Vision • Embedded Systems • Software Development
 
