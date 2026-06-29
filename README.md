@@ -9,39 +9,24 @@ I love turning ideas into real applications using Python, Machine Learning, and 
 
 Currently learning and improving my skills through hands-on projects.
 
-## Tech Stack
+<h2>Tech Stack</h2>
 
-<div style="display:flex; flex-wrap:wrap; gap:20px;">
+<table>
+<tr>
+<td>
 
-  <div style="min-width:220px;">
-    <h3>Languages</h3>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,cs,js,html,css,bash"/>
-    </a>
-  </div>
+### Languages
+<img src="https://skillicons.dev/icons?i=python,cs,js,html,css,bash"/>
 
-  <div style="min-width:220px;">
-    <h3>AI & Computer Vision</h3>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
-    </a>
-  </div>
+</td>
+<td>
 
-  <div style="min-width:220px;">
-    <h3>Frameworks & Tools</h3>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=electron,git,github"/>
-    </a>
-  </div>
+### AI & CV
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
 
-  <div style="min-width:220px;">
-    <h3>Embedded Systems</h3>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=arduino,raspberrypi"/>
-    </a>
-  </div>
-
-</div>
+</td>
+</tr>
+</table>
 ## Connect with Me
 
 <p align="center">
