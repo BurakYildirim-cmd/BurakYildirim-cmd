@@ -1,47 +1,43 @@
-# Hi, I'm Burak Yıldırım 👋
+<h1 align="center">Hi, I'm Burak Yıldırım 👋</h1>
 
+<p align="center">
 Machine Learning • Computer Vision • Embedded Systems • Software Development
+</p>
+
+---
 
 ## About Me
-Mechatronics Engineering student building software and AI-based projects.
+Mechatronics Engineering student focused on ML, Computer Vision, and Embedded Systems.  
+I build real-world AI + software projects and improve through hands-on development.
 
-I love turning ideas into real applications using Python, Machine Learning, and Computer Vision.
+---
 
-Currently learning and improving my skills through hands-on projects.
+## Tech Stack
 
-<h2>Tech Stack</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,js,html,css,bash" /><br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" /><br/>
+  <img src="https://skillicons.dev/icons?i=electron,git,github,arduino,raspberrypi" />
+</p>
 
-<table>
-<tr>
-<td>
+---
 
-### Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,js,html,css,bash"/>
+## GitHub Stats
 
-</td>
-<td>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BurakYildirim-cmd&theme=tokyonight&hide_border=true&show_icons=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=BurakYildirim-cmd&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-### AI & CV
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BurakYildirim-cmd&theme=tokyonight" width="95%" />
+</p>
 
-</td>
-</tr>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurakYildirim-cmd&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
 
-<tr>
-<td>
-
-### Frameworks & Tools
-<img src="https://skillicons.dev/icons?i=electron,git,github"/>
-
-</td>
-<td>
-
-### Embedded Systems
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi"/>
-
-</td>
-</tr>
-</table>
+---
 
 ## Connect with Me
 
@@ -49,38 +45,15 @@ Currently learning and improving my skills through hands-on projects.
   <a href="https://www.linkedin.com/in/burak-yildirim33">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
+
   <a href="mailto:burakyildirim951@outlook.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-## GitHub Statistics
-<table align="center" width="100%">
-  <!-- GitHub Stats + Streak -->
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=BurakYildirim-cmd&theme=tokyonight&show_icons=true&hide_border=true" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://streak-stats.demolab.com?user=BurakYildirim-cmd&theme=tokyonight&hide_border=true" width="100%" />
-    </td>
-  </tr>
+---
 
-  <!-- Profile Details -->
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BurakYildirim-cmd&theme=tokyonight" width="100%" />
-    </td>
-  </tr>
-
-  <!-- Most Used Languages -->
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurakYildirim-cmd&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-    </td>
-  </tr>
-</table>
+## Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/BurakYildirim-cmd/BurakYildirim-cmd/output/github-contribution-grid-snake.svg">
