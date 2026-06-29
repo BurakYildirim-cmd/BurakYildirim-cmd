@@ -50,11 +50,3 @@ I build real-world AI + software projects and improve through hands-on developme
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
-## Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BurakYildirim-cmd/BurakYildirim-cmd/output/github-contribution-grid-snake.svg">
-</p>
