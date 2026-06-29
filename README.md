@@ -1,4 +1,4 @@
-# Hi, I'm Burak Yıldırım
+# Hi, I'm Burak Yıldırım 👋
 
 Machine Learning • Computer Vision • Embedded Systems • Software Development
 
@@ -11,8 +11,17 @@ Currently learning and improving my skills through hands-on projects.
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,cs,git,github,arduino,raspberrypi,js,html,css,electron,bash)](https://skillicons.dev)
+### Languages
+[![Languages](https://skillicons.dev/icons?i=python,cs,js,html,css,bash)](https://skillicons.dev)
 
+### AI & Computer Vision
+[![AI](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv)](https://skillicons.dev)
+
+### Frameworks & Tools
+[![Tools](https://skillicons.dev/icons?i=electron,git,github)](https://skillicons.dev)
+
+### Embedded Systems
+[![Embedded](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
 ## Connect with Me
 
 <p align="center">
@@ -25,7 +34,7 @@ Currently learning and improving my skills through hands-on projects.
   </a>
 </p>
 
-## Stats
+## GitHub Statistics
 <table align="center" width="100%">
   <!-- GitHub Stats + Streak -->
   <tr>
@@ -52,5 +61,5 @@ Currently learning and improving my skills through hands-on projects.
   </tr>
 </table>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BurakYildirim-cmd/BurakYildirim-cmd/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/BurakYildirim-cmd/BurakYildirim-cmd/output/github-contribution-grid-snake-dark.svg">
 </p>
