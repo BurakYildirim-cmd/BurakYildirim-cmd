@@ -33,12 +33,6 @@ I build real-world AI + software projects and improve through hands-on developme
       <img src="https://streak-stats.demolab.com?user=BurakYildirim-cmd&theme=tokyonight&hide_border=true" width="100%" />
     </td>
   </tr>
-
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurakYildirim-cmd&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-    </td>
-  </tr>
 </table>
 
 ---
