@@ -33,9 +33,5 @@ Currently learning and improving my skills through hands-on projects.
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BurakYildirim-cmd&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurakYildirim-cmd&layout=compact&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/KULLANICI_ADIN/KULLANICI_ADIN/output/github-contribution-grid-snake.svg">
 </p>
