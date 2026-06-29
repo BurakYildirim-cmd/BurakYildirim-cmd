@@ -32,6 +32,12 @@ Currently learning and improving my skills through hands-on projects.
 </tr>
 </table>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BurakYildirim-cmd&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BurakYildirim-cmd&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BurakYildirim-cmd&theme=github_dark)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/BurakYildirim-cmd/BurakYildirim-cmd/output/github-contribution-grid-snake.svg">
 </p>
