@@ -11,17 +11,37 @@ Currently learning and improving my skills through hands-on projects.
 
 ## Tech Stack
 
-### Languages
-[![Languages](https://skillicons.dev/icons?i=python,cs,js,html,css,bash)](https://skillicons.dev)
+<div style="display:flex; flex-wrap:wrap; gap:20px;">
 
-### AI & Computer Vision
-[![AI](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv)](https://skillicons.dev)
+  <div style="min-width:220px;">
+    <h3>Languages</h3>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,cs,js,html,css,bash"/>
+    </a>
+  </div>
 
-### Frameworks & Tools
-[![Tools](https://skillicons.dev/icons?i=electron,git,github)](https://skillicons.dev)
+  <div style="min-width:220px;">
+    <h3>AI & Computer Vision</h3>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+    </a>
+  </div>
 
-### Embedded Systems
-[![Embedded](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
+  <div style="min-width:220px;">
+    <h3>Frameworks & Tools</h3>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=electron,git,github"/>
+    </a>
+  </div>
+
+  <div style="min-width:220px;">
+    <h3>Embedded Systems</h3>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=arduino,raspberrypi"/>
+    </a>
+  </div>
+
+</div>
 ## Connect with Me
 
 <p align="center">
