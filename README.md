@@ -81,6 +81,7 @@ Currently learning and improving my skills through hands-on projects.
     </td>
   </tr>
 </table>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BurakYildirim-cmd/BurakYildirim-cmd/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/KULLANICI_ADIN/KULLANICI_ADIN/output/github-contribution-grid-snake.svg">
 </p>
