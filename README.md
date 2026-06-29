@@ -9,6 +9,18 @@ I love turning ideas into real applications using Python, Machine Learning, and 
 
 Currently learning and improving my skills through hands-on projects.
 
+## Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/burak-yildirim33">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="mailto:burakyildirim951@outlook.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 ## Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,cs,git,github,arduino,raspberrypi,js,html,css,electron,bash)](https://skillicons.dev)
