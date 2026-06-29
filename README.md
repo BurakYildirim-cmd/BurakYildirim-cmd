@@ -32,20 +32,10 @@ Currently learning and improving my skills through hands-on projects.
     </td>
   </tr>
 
-  <!-- Summary -->
+  <!-- Profile Details -->
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BurakYildirim-cmd&theme=github_dark" width="100%" />
-    </td>
-  </tr>
-
-  <!-- Summary Languages -->
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BurakYildirim-cmd&theme=github_dark" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BurakYildirim-cmd&theme=github_dark" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BurakYildirim-cmd&theme=tokyonight" width="100%" />
     </td>
   </tr>
 </table>
