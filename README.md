@@ -11,7 +11,7 @@ Currently learning and improving my skills through hands-on projects.
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,cs,git,github,arduino,raspberrypi,js,html,css,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,cs,git,github,arduino,raspberrypi,js,html,css,electron,bash)](https://skillicons.dev)
 
 ## Stats
 <table align="center" width="100%">
