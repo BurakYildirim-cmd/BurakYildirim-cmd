@@ -42,6 +42,7 @@ Currently learning and improving my skills through hands-on projects.
 </td>
 </tr>
 </table>
+
 ## Connect with Me
 
 <p align="center">
