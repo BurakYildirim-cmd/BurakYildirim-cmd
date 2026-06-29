@@ -31,3 +31,11 @@ Currently learning and improving my skills through hands-on projects.
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight" />
+</p>
