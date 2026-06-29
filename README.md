@@ -6,13 +6,13 @@ Machine Learning • Computer Vision • Embedded Systems • Software Developme
 
 ---
 
-## About Me
+<h1 align="center">About Me</h1>
 Mechatronics Engineering student focused on ML, Computer Vision, and Embedded Systems.  
 I build real-world AI + software projects and improve through hands-on development.
 
 ---
 
-## Tech Stack
+<h1 align="center">Tech Stack</h1>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,cs,js,html,css,bash" /><br/>
@@ -22,15 +22,11 @@ I build real-world AI + software projects and improve through hands-on developme
 
 ---
 
-## GitHub Stats
+<h1 align="center">Github Stats</h1>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BurakYildirim-cmd&theme=tokyonight&hide_border=true&show_icons=true" width="48%" />
   <img src="https://streak-stats.demolab.com?user=BurakYildirim-cmd&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BurakYildirim-cmd&theme=tokyonight" width="95%" />
 </p>
 
 <p align="center">
@@ -39,7 +35,7 @@ I build real-world AI + software projects and improve through hands-on developme
 
 ---
 
-## Connect with Me
+<h1 align="center">Connect with Me</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/burak-yildirim33">
