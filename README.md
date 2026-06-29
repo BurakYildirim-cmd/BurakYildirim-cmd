@@ -16,13 +16,28 @@ Currently learning and improving my skills through hands-on projects.
 <td>
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=python,cs,js,html,css,bash"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,js,html,css,bash"/>
 
 </td>
 <td>
 
 ### AI & CV
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### Frameworks & Tools
+<img src="https://skillicons.dev/icons?i=electron,git,github"/>
+
+</td>
+<td>
+
+### Embedded Systems
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi"/>
 
 </td>
 </tr>
