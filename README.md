@@ -22,16 +22,30 @@ I build real-world AI + software projects and improve through hands-on developme
 
 ---
 
-<h2 align="center">Github Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BurakYildirim-cmd&theme=tokyonight&hide_border=true&show_icons=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=BurakYildirim-cmd&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=BurakYildirim-cmd&theme=tokyonight&hide_border=true&show_icons=true" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://streak-stats.demolab.com?user=BurakYildirim-cmd&theme=tokyonight&hide_border=true" width="100%" />
+    </td>
+  </tr>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurakYildirim-cmd&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BurakYildirim-cmd&theme=tokyonight" width="100%" />
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurakYildirim-cmd&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
