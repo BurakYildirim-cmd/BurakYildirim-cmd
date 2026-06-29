@@ -9,6 +9,10 @@ I love turning ideas into real applications using Python, Machine Learning, and 
 
 Currently learning and improving my skills through hands-on projects.
 
+## Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,cs,git,github,arduino,raspberrypi,js,html,css,electron,bash)](https://skillicons.dev)
+
 ## Connect with Me
 
 <p align="center">
@@ -20,10 +24,6 @@ Currently learning and improving my skills through hands-on projects.
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-## Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,cs,git,github,arduino,raspberrypi,js,html,css,electron,bash)](https://skillicons.dev)
 
 ## Stats
 <table align="center" width="100%">
